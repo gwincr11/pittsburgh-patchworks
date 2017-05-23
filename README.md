@@ -11,7 +11,7 @@ If interested and available:
 - @jwiebalk 
 - @lindseyb
 
-## Community Support $$
+## Community Support ##
 - Code and Supply
 - @justinxreese 
 - @melancholyfleur
