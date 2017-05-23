@@ -4,6 +4,13 @@
 August 7th
 In conjunction with: Code and Supply Meetup and GDI.
 
+## Community Support ##
+- Code and Supply
+- @justinxreese 
+- @melancholyfleur
+- Prototype PGH
+- Academy PGH
+
 ## :octocat: Hubbers :octocat: ##
 - @gwincr11
 If interested and available: 
@@ -11,12 +18,6 @@ If interested and available:
 - @jwiebalk 
 - @lindseyb
 
-## Community Support ##
-- Code and Supply
-- @justinxreese 
-- @melancholyfleur
-- Prototype PGH
-- Academy PGH
 
 ## What is this repo?
 * A place to talk about the project.
