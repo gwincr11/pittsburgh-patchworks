@@ -4,10 +4,10 @@ Pittsburgh edition of the [GitHub Patchwork program](http://patchwork.github.io/
 
 ## :calendar: Date :calendar: ##
 August 7th
-In conjunction with: Code and Supply Meetup and GDI.
+In conjunction with: Code & Supply and GDI.
 
 ## Community Support ##
-- Code and Supply
+- Code & Supply
 - @justinxreese 
 - @melancholyfleur
 - Prototype PGH
