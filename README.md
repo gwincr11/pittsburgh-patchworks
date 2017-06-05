@@ -6,6 +6,9 @@ Pittsburgh edition of the [GitHub Patchwork program](http://patchwork.github.io/
 August 7th
 In conjunction with: Code & Supply and GDI.
 
+## :hotel: Venue :hotel: ##
+[The Shop](https://www.facebook.com/TheShopPgh/)
+
 ## Community Support ##
 - Code & Supply
 - @justinxreese 
