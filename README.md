@@ -18,11 +18,22 @@ In conjunction with: Code & Supply and GDI.
 
 ## :octocat: Hubbers :octocat: ##
 - @gwincr11
-If interested and available: 
 - @ohitsmekatie
 - @jwiebalk 
 - @lindseyb
 
+## Lightning Talks ##
+- Community Lightning Talk: @carols10cents
+- Non-profit Lightning Talk: @username
+
+## Mentors ##
+- @gwincr11
+- @ohitsmekatie
+- @jwiebalk 
+- @lindseyb
+- @carols10cents
+- @justinxreese 
+- @melancholyfleur
 
 ## What is this repo?
 * A place to talk about the project.
