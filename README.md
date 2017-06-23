@@ -24,7 +24,7 @@ In conjunction with: Code & Supply and GDI.
 
 ## Lightning Talks ##
 - Community Lightning Talk: @carols10cents
-- Non-profit Lightning Talk: @username
+- Non-profit Lightning Talk: @rgradeck
 
 ## Mentors ##
 - @gwincr11
