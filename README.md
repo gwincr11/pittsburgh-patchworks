@@ -35,6 +35,7 @@ In conjunction with: Code & Supply and GDI.
 - @justinxreese 
 - @melancholyfleur
 - @shepmaster
+- @ignatius-j
 
 ## :mortar_board: Curriculum :mortar_board:
 
